@@ -1,4 +1,6 @@
 # task_gridnine_system
+## Выполнение тестового задания на позицию Java Developer.
+### Файловая организация проекта.
 
 task_gridnine_system/src/\
 ├── "_"main/\
@@ -20,8 +22,7 @@ task_gridnine_system/src/\
 │       ├── questionary.odt - **Вопросы о Java с ответами.**\
 │       └── test-instructions.odt - **Постановка задачи.**\
 └── test/java/com/gridnine/testing/FlightFilterTest.java - тестирование **DepartureBeforeNowFilter**, **ArrivalBeforeDepartureFilter**, **ExcessiveGroundTimeFilter**.
-
-**Используемые зависимости**
+### Используемые зависимости.
 Для тестирования:\
 JUnit 5\
 junit-jupiter-engine 5.7.0
